@@ -1,0 +1,25 @@
+{
+  "name": "sootable",
+  "version": "1.0.0",
+  "description": "The match is in the cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazairelife/Sootable.git"
+  },
+  "keywords": [
+    "sootable"
+  ],
+  "author": "Breanna Lorraine Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazairelife/Sootable/issues"
+  },
+  "homepage": "https://github.com/nazairelife/Sootable#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
